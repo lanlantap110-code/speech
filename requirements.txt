@@ -1,0 +1,10 @@
+vosk==0.3.45
+flask==2.3.3
+flask-cors==4.0.0
+numpy==1.24.3
+soundfile==0.12.1
+wave
+json
+tempfile
+base64
+os
